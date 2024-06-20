@@ -8,12 +8,6 @@
     --winning-blocks: rgb(40, 67, 67); 
 }
 
-.finger-paint-regular {
-    font-family: "Finger Paint", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
 body{
     color: #fff;
     font-family: 'Finger Paint', cursive;
